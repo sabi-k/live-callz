@@ -543,6 +543,9 @@ h1 h2 h3 h4 h5 p ul{
     margin-bottom: 15px;
     background-color:#94bf8d;
 }
+.componants{
+    width:100%;
+}
 
 .provide{
     background-image: url(../images/footer-img.png);
